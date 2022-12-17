@@ -1,0 +1,60 @@
+
+body{
+    font-weight:500;
+    color: #093f4b;
+    font-size: 1rem;
+}
+
+a{
+    text-decoration: none;
+}
+span{
+    opacity: 0.5;
+}
+
+.form-check{
+    margin-left: 2rem;
+}    
+ 
+.register{
+   font-family:'Times New Roman', Times, serif;
+    font-weight:400;
+    font-size: 2rem;
+ } 
+ .reg{
+    font-weight: 600;
+ }
+
+
+.col-sm-4{
+    background-color: #093f4b;
+    padding: 3rem;
+
+}
+
+.logo-title{
+    color: #d9d9d9;
+    font-weight:500;
+}
+.form-control{
+    background-color:#d9d9d9;
+    border-radius: 0.5rem; 
+    border: none;
+    
+     
+}
+.btn{
+    background-color: #093f4b;
+    color: #d9d9d9;
+    padding: 1rem;
+    margin-top: 2rem;
+    border-radius: 1rem; 
+}
+
+.form-outline{
+    padding: 1rem;
+}
+.last-login{
+    padding: 1rem;
+   color: #093f4b;
+}
