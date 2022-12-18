@@ -14,6 +14,11 @@ a{
     text-decoration: none;
     color:#093f4b;
 }
+
+a.login-btn{
+     color: #fff;
+}
+
 span{
     opacity: 0.6;
 }
